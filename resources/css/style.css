@@ -16,6 +16,25 @@ a {
 }
 
 p {
-   text-align: center;
-   
+   text-align: center;  
+}
+
+h2 {
+    color: white;
+    font-family: Verdana;
+    font-size: 42px;
+    font-weight: 300;
+    text-align: center;
+}
+
+h4 {
+    color: Gray;
+    font-family: Verdana;
+    font-size: 21px;
+    text-align: center;    
+}
+
+.footer {
+    color: gray;
+    text-align: right;
 }
